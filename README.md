@@ -4,6 +4,8 @@
 
 Utilizei um Modelo de Machine Learning chamado Vision V3 para reconhecimento de imagens.
 
+Obs.: Utilizei o album de fotos pois estou usando o simulador mas podemos utilizar a camera tranquilamente, basta trocar o .photoLibrary pelo .camera no ViewController
+
 
 
 
